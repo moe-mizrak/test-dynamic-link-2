@@ -18,6 +18,6 @@
   <img src="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/transaction-builder" alt="My Dynamic Vercel" />
 </a>
 
-<a href="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/test-dynamic-link-2" target="_blank">
-  <img src="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/test-dynamic-link-2" alt="My Dynamic Vercel 2" />
+<a href="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/test-dynamic-link" target="_blank">
+  <img src="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/test-dynamic-link" alt="My Dynamic Vercel 2" />
 </a>
