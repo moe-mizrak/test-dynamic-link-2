@@ -21,3 +21,7 @@
 <a href="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/test-dynamic-link" target="_blank">
   <img src="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/test-dynamic-link" alt="My Dynamic Vercel 2" />
 </a>
+
+<a href="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/test-22" target="_blank">
+  <img src="https://reboosty-reboosty.vercel.app/api?repo_url=https://github.com/moe-mizrak/test-22" alt="My Dynamic Vercel 2" />
+</a>
